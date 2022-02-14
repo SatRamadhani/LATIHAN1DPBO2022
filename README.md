@@ -29,3 +29,13 @@ Masing-masing atribut mempunyai *Getter* dan *Setter*-nya tersendiri, dengan dua
 Pertama-tama, pengguna akan dimintai jumlah tim yang ada. Kemudian dengan bentuk *array of object* dari class Team, pengguna akan memasukkan data nama tim, asal negara, tahun didirkan, jumlah pemain, dan nama-nama pemain. Setiap kali masukan, program akan memeriksa apakah atribut tersebut merupakan yang terpanjang atau bukan. Setelah proses masukan selesai, objek Team beserta data atribut terpanjang akan dijadikan argumen untuk data Table.
 
 Di dalam objek Table sendiri, panjang dari tabel akan dihitung berdasarkan jumlah seluruh atribut terpanjang. Pembatas tabel dikeluarkan berdasarkan panjang tabel, diikuti tabel inti yang mengambil data-data dari parameter objek Team. Perhitungan atribut terpanjang dan keluaran pembatas tabel dibuat *private* karena hanya bisa digunakan di dalam pembuatan tabel itu sendiri.
+
+## Hasil Program
+
+![Program A - PHP](https://user-images.githubusercontent.com/72297396/153882306-c59e0ab3-b52b-4b1d-8416-a48c0a5f2f87.png)
+
+
+![Program B - C++, Java, Python](https://user-images.githubusercontent.com/72297396/153882337-f7d0cd3a-9176-4e99-b6fa-233624ce6874.png)
+
+
+![Program B - PHP](https://user-images.githubusercontent.com/72297396/153882383-a4058af4-2805-4c58-be87-1efb245a7c36.png)
