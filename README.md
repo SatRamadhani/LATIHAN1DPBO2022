@@ -15,7 +15,7 @@ Class "Team" memiliki empat atribut, dengan keterangan:
 
 Sementara itu, class "Table" memiliki tiga atribut, dengan keterangan:
 - **row** - Baris Tabel, berupa *integer*.
-- **col** - Kolom Tabel, beryoa *integer*.
+- **col** - Kolom Tabel, berupa *integer*.
 - **length** - Panjang Tabel, berupa *integer*.
 
 Masing-masing atribut mempunyai *Getter* dan *Setter*-nya tersendiri, dengan dua tambahan:
