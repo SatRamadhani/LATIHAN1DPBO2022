@@ -32,10 +32,14 @@ Di dalam objek Table sendiri, panjang dari tabel akan dihitung berdasarkan jumla
 
 ## Hasil Program
 
-![Program A - PHP](https://user-images.githubusercontent.com/72297396/153882306-c59e0ab3-b52b-4b1d-8416-a48c0a5f2f87.png)
+**Program A - PHP**
 
+![Program A - PHP](https://user-images.githubusercontent.com/72297396/153882644-ba57e6b8-ac23-4ee5-b607-267abaff32a1.png)
 
-![Program B - C++, Java, Python](https://user-images.githubusercontent.com/72297396/153882337-f7d0cd3a-9176-4e99-b6fa-233624ce6874.png)
+**Program B - C++, Java, Python**
 
+![Program B - C++, Java, Python](https://user-images.githubusercontent.com/72297396/153882734-746a7924-b7c8-41c6-bb89-73685791316b.png)
 
-![Program B - PHP](https://user-images.githubusercontent.com/72297396/153882383-a4058af4-2805-4c58-be87-1efb245a7c36.png)
+**Program B - PHP**
+
+![Program B - PHP](https://user-images.githubusercontent.com/72297396/153882806-70c6b820-b09e-4aeb-9ca2-1c8267be8fe4.png)
